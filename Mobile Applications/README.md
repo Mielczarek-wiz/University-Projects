@@ -20,9 +20,13 @@ In this task we had to add login and "sing in" activity, database for user stora
 # Task 5: Application in Kotlin - using API
 The task was to make application in Kotlin in Android Studio which will download data from the Internet. It contains activity for user, posts, todos and comments downloaded from the Internet using JSON.
 Data:
+
 Users - https://jsonplaceholder.typicode.com/users
+
 Todos - https://jsonplaceholder.typicode.com/todos
+
 Comments - https://jsonplaceholder.typicode.com/comments
+
 Posts - https://jsonplaceholder.typicode.com/posts
 
 
